@@ -14,3 +14,8 @@ make
 
 ## Testcases
 All testcases are under folder tests (including my own tests)
+
+## Contact
+Jianxiong Cai
+ShanghaiTech Univeristy
+Email: caijx@shanghaitech.edu.cn / ernestme@icloud.com
